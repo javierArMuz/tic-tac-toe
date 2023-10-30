@@ -27,3 +27,7 @@ Realizamos una aplicación llamada 'Tic tac Toe' con la librería react guiados 
 El usuario que va iniciar el juego debe hacer click sobre cualquiera de los nueve cuadros que aparecen en el tablero.
 
 Los turnos van de forma alternada.
+
+## Deployment
+
+[tictactoe](https://tictactoejuego.netlify.app)
